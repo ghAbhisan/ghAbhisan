@@ -10,14 +10,6 @@ Building full-stack web applications using the MERN stack and improving my under
 📚 **Currently learning**  
 Advanced React concepts, backend development with Node.js and Express, MongoDB database design, and Data Structures & Algorithms.
 
-💼 **Skills & Interests**  
-- 🌐 Full Stack Web Development (MERN)  
-- 🎨 Frontend Development with React  
-- ⚙️ Backend APIs using Node.js & Express  
-- ✨ JavaScript (ES6+)  
-- 🧠 Problem Solving & Logical Thinking  
-- ☕ Basic DSA using Java  
-
 🤝 **Looking to collaborate on**  
 Meaningful web development projects, open-source contributions, and real-world problem-solving applications.
 
