@@ -1,4 +1,4 @@
-# Hi 👋, myself I'm Abhisan Paul 🌻🌻
+# Hi 👋, myself Abhisan Paul 🌻🌻
 
 ### I am a self-driven aspiring software developer. I enjoy creating clean, responsive, and user-friendly web applications while continuously sharpening my technical and problem-solving skills.
 ---
